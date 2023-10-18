@@ -2,7 +2,7 @@ package com.mycompany.app;
 
 import java.util.Scanner;
 
-public class BankingApp {
+class BankingApp {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
